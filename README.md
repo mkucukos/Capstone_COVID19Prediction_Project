@@ -1,4 +1,4 @@
-## Capstone_COVID19Prediction_Project
+## Capstone_COVID19_Prediction_Project
 
 A. Dataset: This dataset includes anonymised information from patients who visited the Hospital Israelita Albert 
 Einstein in So Paulo, Brazil,  and had samples taken for the SARS-CoV-2 RT-PCR and other laboratory testing while they were there. 
